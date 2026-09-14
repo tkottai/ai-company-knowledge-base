@@ -36,3 +36,4 @@ Codebase Structure:
 2) Ingest.py: This file is responsible for loading PDF documents, splitting the data into chunks, creating semantic embeddings, and storing them in a vector database (Chroma).
 3) rag_chain.py: Contains the RAG pipeline. When a user asks a question, it retrieves the most relevant document chunks and passes them to the LLM (Kimi K3) to generate an accurate answer.
 
+<img width="1294" height="604" alt="image" src="https://github.com/user-attachments/assets/8cd016d4-0d6e-4a56-aba5-149c3a07a100" />
